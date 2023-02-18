@@ -3,6 +3,8 @@
 
 a very basic calculator to learn more about react and it's hooks
 
+<img src="https://github.com/rayen-creator/CalculatorApp/blob/main/demo.PNG" alt="Calculator_app"  />
+
 ## Usage
 
 1-clone the repo 
